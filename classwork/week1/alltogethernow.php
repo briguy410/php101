@@ -6,5 +6,14 @@
   <body>
     <p>Create two variables one called $myName and another called $myAge.</p>
     <p>Beneath that use echo to print out your name and your age on their own line.</p>
+    <?php $name = "Brian";
+    $age =37;
+    echo $name;
+    ?>
+    <br>
+    <?php 
+    echo $age;
+    ?>
+
   </body>
 </html>

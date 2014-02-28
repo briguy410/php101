@@ -5,6 +5,7 @@
   </head>
   <body>
     <!-- Add your PHP code in the tag below -->
+    <?php echo 18*527; ?>
     <p></p>
   </body>
 </html>
